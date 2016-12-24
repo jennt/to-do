@@ -2,4 +2,4 @@
 
 This is a Javascript To-do list app built using a tutorial from railsbridge curriculum.
 
-If you would like to complete this tutorial visit railsbridge.org.
+If you would like instruction on completing this tutorial visit railsbridge.org.
